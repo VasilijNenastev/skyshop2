@@ -12,6 +12,7 @@ import java.util.UUID;
 @SessionScope
 @Service
 public class ProductBasket {
+
     private final Map<UUID, Integer> basket = new HashMap<>();
 
     public ProductBasket( ) {

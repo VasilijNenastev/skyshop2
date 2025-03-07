@@ -3,6 +3,7 @@ package org.skypro.skyshop.model.search;
 import java.util.UUID;
 
 public class SearchResult {
+
     public final UUID id;
     public final String name;
     public final String contentType;

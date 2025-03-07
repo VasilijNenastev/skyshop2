@@ -6,6 +6,7 @@ import org.skypro.skyshop.exception.PriceException;
 import java.util.UUID;
 
 public class DiscountedProduct extends Product {
+
     public int basePrice;
     public int percentageDiscount;
 

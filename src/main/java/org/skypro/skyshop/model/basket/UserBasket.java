@@ -3,6 +3,7 @@ package org.skypro.skyshop.model.basket;
 import java.util.ArrayList;
 
 public class UserBasket {
+
     private final ArrayList<BasketItem> basket;
     private final int total;
 
