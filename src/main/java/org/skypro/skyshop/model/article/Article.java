@@ -22,7 +22,6 @@ public class Article implements Searchable {
         return article;
     }
 
-
     public String getText() {
         return text;
     }

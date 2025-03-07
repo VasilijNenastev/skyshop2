@@ -15,6 +15,7 @@ import java.util.UUID;
 @Service
 @SessionScope
 public class BasketService {
+
     private final ProductBasket productBasket;
     private final StorageService storageService;
 

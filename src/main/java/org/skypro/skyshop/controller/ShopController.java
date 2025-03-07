@@ -52,6 +52,7 @@ public class ShopController {
         } catch (NoSuchProductException e) {
             return e.getMessage();
         }
+
     }
 
     @GetMapping("/basket")

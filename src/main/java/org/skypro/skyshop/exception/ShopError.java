@@ -1,6 +1,7 @@
 package org.skypro.skyshop.exception;
 
 public class ShopError {
+
     private final String code;
     private final String message;
 

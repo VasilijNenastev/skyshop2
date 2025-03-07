@@ -24,7 +24,6 @@ public class StorageService {
         this.articleMap = articleMap;
 
 
-
         testData();
         System.out.println(productMap.values());
         System.out.println(articleMap.values());
